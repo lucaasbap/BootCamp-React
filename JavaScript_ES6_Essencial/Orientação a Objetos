@@ -1,0 +1,3 @@
+O conceito de Orientação a Objetos aqui utiliza um comando "prototype", mas ele é um pouco complexo de entender.
+
+Portanto, no ES6 foi implementado o conceito de classes, que é bem semelhante à implementação em Java de orientação a objetos, que implementa, por trás, a questão do prototype.
