@@ -1,0 +1,38 @@
+body    
+    {
+        background: rgb(151, 123, 123);
+        margin-left: 25px;
+    }
+
+header 
+    {
+        margin-top: 70px;
+    }
+
+h1 
+    {
+        color: purple;
+        font-family: fantasy;
+    }
+
+h2
+    {
+        color: rebeccapurple;
+        font-family: fantasy;
+    }
+
+p 
+    {
+        font-size: 18px;
+        color: pink;
+    }
+.img_padrao
+    {
+        margin-bottom: 30px;
+        width: 300px;
+    }
+
+.logo
+    {
+        width: 30px;
+    }
