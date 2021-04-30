@@ -38,4 +38,4 @@ console.log(it.next());
 
 for (let value of obj2) {
     console.log(value);
-}
+} 
